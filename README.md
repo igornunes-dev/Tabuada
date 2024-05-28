@@ -2,6 +2,10 @@
 O Tabuada Generator é uma aplicação web simples e útil projetada para gerar a tabuada completa de um número digitado pelo usuário. Com uma interface limpa e amigável, 
 esta aplicação é uma ferramenta útil para auxiliar estudantes no aprendizado e prática das tabuadas de multiplicação.
 
+# Projeto
+
+#### https://igornunes-dev.github.io/Tabuada/
+
 # Funcionalidades
 
 #### Gerador de Tabuada: Insira um número inteiro e obtenha sua tabuada completa.
